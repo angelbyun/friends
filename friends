@@ -1,6 +1,6 @@
-friend1 = Sam
-friend2 = Bill
-friend3 = Jack
-friend4 = Bob
-friend5 = Paul
+friend1 = "Sam"
+friend2 = "Bill"
+friend3 = "Jack"
+friend4 = "Bob"
+friend5 = "Paul"
 p friend3
