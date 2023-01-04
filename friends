@@ -6,3 +6,10 @@ friend5 = "Paul"
 p friend3
 p friend5
 p friend1
+
+place1 = "beach"
+place2 = "jungle"
+place3 = "mountains"
+place4 = "desert"
+place5 = "home"
+puts place1
