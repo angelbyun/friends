@@ -4,3 +4,5 @@ friend3 = "Jack"
 friend4 = "Bob"
 friend5 = "Paul"
 p friend3
+p friend5
+p friend1
